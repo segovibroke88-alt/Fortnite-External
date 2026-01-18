@@ -29,7 +29,8 @@ namespace ValorantColorAimbot
         const bool canShoot = false;
  
         // COLOR
-        const int color = 0xaf2eaf; //0xb41515 = Red; 0xaf2eaf = purple //#9999FF = Blue 
+        const int color = 0xaf2eaf; //0xb41515 = Red; 0xaf2eaf = purple //#9999FF = Red
+		
         const int colorVariation = 20;
  
         const double size = 60;  // DONT CHANGE
@@ -219,3 +220,4 @@ void External
 	return false;
 }
 				
+
